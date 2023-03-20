@@ -1,0 +1,1 @@
+echo "Hello World"git remote add origin https://github.com/veeranki2014/docker.gitgit remote add origin https://github.com/veeranki2014/docker.git
