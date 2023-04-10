@@ -4,3 +4,4 @@
 
 FROM almalinux
 ADD https://github.com/veeranki2014/docker.git /tmp
+ADD apache-tomcat-8.5.87.tar.gz /tmp
