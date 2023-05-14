@@ -1,2 +1,3 @@
 FROM almalinux
-RUN yum install -y nginx
+RUN cd /tmp/
+RUN touch hello.txt
